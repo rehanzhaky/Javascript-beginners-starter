@@ -6,7 +6,8 @@ Complete the following exercises to practice working with numbers and arithmetic
 ## Example OutputIf your numbers are 10 and 5, your console output should look like:
 ```
 Sum: 15
-Difference: 5Product: 50
+Difference: 5
+Product: 50
 Quotient: 2
 ```
 
