@@ -23,7 +23,7 @@ This repository consists of 7 main sections:
 7. 🤖**Mini Project: Simple Interactive Webpage**
    - Under development
 
-## Getting Started
+## 💫 Getting Started
 To use this repository on your local device, follow these steps:
 1. 🤼**Clone the repository**
    ```
